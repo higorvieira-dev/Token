@@ -1,0 +1,10 @@
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\bin\Debug\DevLog Desktop.exe.config
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\bin\Debug\DevLog Desktop.exe
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\bin\Debug\DevLog Desktop.pdb
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.csproj.AssemblyReference.cache
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.csproj.SuggestedBindingRedirects.cache
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog_Desktop.Properties.Resources.resources
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.csproj.GenerateResource.cache
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.csproj.CoreCompileInputs.cache
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.exe
+E:\csharp\.vs\csharp\sistema\DevLog Desktop\DevLog Desktop\obj\Debug\DevLog Desktop.pdb
